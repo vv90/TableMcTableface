@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata></metadata>
+<defs>
+<font id="fontawesomeregular" horiz-adv-x="512" >
+<font-face units-per-em="2048" ascent="1755" descent="-293" />
+<missing-glyph horiz-adv-x="500" />
+<glyph horiz-adv-x="0" />
+<glyph horiz-adv-x="682" />
+<glyph unicode=" " />
+<glyph unicode="&#xa0;" />
+<glyph unicode="&#x2000;" horiz-adv-x="804" />
+<glyph unicode="&#x2001;" horiz-adv-x="1609" />
+<glyph unicode="&#x2002;" horiz-adv-x="804" />
+<glyph unicode="&#x2003;" horiz-adv-x="1609" />
+<glyph unicode="&#x2004;" horiz-adv-x="536" />
+<glyph unicode="&#x2005;" horiz-adv-x="402" />
+<glyph unicode="&#x2006;" horiz-adv-x="268" />
+<glyph unicode="&#x2007;" horiz-adv-x="268" />
+<glyph unicode="&#x2008;" horiz-adv-x="201" />
+<glyph unicode="&#x2009;" horiz-adv-x="321" />
+<glyph unicode="&#x200a;" horiz-adv-x="89" />
+<glyph unicode="&#x202f;" horiz-adv-x="321" />
+<glyph unicode="&#x205f;" horiz-adv-x="402" />
+<glyph unicode="&#x25fc;" horiz-adv-x="571" d="M0 0z" />
+<glyph unicode="&#xf09d;" horiz-adv-x="2194" d="M0 37v1389q0 76 53.5 129.5t129.5 53.5h1828q76 0 129.5 -53.5t53.5 -129.5v-1389q0 -76 -53.5 -129.5t-129.5 -53.5h-1828q-76 0 -129.5 53.5t-53.5 129.5zM146 37q0 -14 11.5 -25.5t25.5 -11.5h1828q14 0 25.5 11.5t11.5 25.5v694h-1902v-694zM146 1170h1902v256 q0 14 -11.5 25.5t-25.5 11.5h-1828q-14 0 -25.5 -11.5t-11.5 -25.5v-256zM293 146v147h292v-147h-292zM731 146v147h439v-147h-439z" />
+<glyph unicode="&#xf0d6;" horiz-adv-x="2194" d="M0 73v1317q0 30 21.5 51.5t51.5 21.5h2048q30 0 51.5 -21.5t21.5 -51.5v-1317q0 -30 -21.5 -51.5t-51.5 -21.5h-2048q-30 0 -51.5 21.5t-21.5 51.5zM146 439q121 0 207 -86t86 -207h1316q0 121 86 207t207 86v585q-121 0 -207 86t-86 207h-1316q0 -121 -86 -207t-207 -86 v-585zM731 731q0 80 24 162.5t68 153t116 115.5t158 45t158 -45t116 -115.5t68 -153t24 -162.5q0 -63 -14.5 -129t-45.5 -128t-73.5 -110.5t-103 -78t-129.5 -29.5t-129.5 29.5t-103 78t-73.5 110.5t-45.5 128t-14.5 129zM871 904l88 -91q5 5 14.5 13t14.5 12.5t11.5 11 t12 13.5t10.5 15h2v-329h-146v-110h439v110h-147v512h-130z" />
+</font>
+</defs></svg> 

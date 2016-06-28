@@ -1,0 +1,13 @@
+{
+  "name": "table-mc-tableface",
+  "version": "0.0.0",
+  "description": "TableMcTableface",
+  "main": "server.js",
+  "author": {
+    "name": "Vladimir",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
